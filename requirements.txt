@@ -1,0 +1,7 @@
+gymnasium[classic-control]>=1.0
+torch
+numpy
+matplotlib
+tqdm
+moviepy
+notebook
